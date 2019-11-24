@@ -4,3 +4,5 @@
 2) use github api and create your own notepad app
 3) add retry logic to selenium POM
 4) implement screenshot for failed tests. ITestListener
+
+https://www.youtube.com/watch?v=hQcFE0RD0cQ
