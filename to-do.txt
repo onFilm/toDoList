@@ -1,0 +1,31 @@
+
+-------------------------------------------------How to tutorials -----------------------------------------------
+How to configure a program in env settings and open from run command
+how to use program recorder for step by step recording
+how to secretly save notes as image and view by selecting edit
+command prompt commands
+how to change the folder icons
+how to shutdown computer using shell scripts
+how to prevent computer not log off using vb scripts
+how to prevent a program connecting to internet
+how to add multiple date and times
+how to kill any process, how to kill chrome driver
+
+-------------------------------------------------Fun things -----------------------------------------------------
+the square root of 4 - 2 is not equals to 0
+the google skew trick
+the shutdown virus using startup scipts
+the excel bug - email replace to other mouse hover
+mobaxterm games
+we can't create a folder with names like com1 com2 com3 etc
+quickdraw.google.com
+sort egg and hen, check result
+use windows+. for emoji
+notepad bug, bush hid the facts
+
+
+--------------------------------------------- automate --------------------------------------------------------- 
+https://neal.fun/deep-sea/
+https://neal.fun/
+https://findtheinvisiblecow.com/
+https://doodlecricket.github.io/#/
